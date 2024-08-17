@@ -1,6 +1,6 @@
 ## Jogo da Adivinhação
 
-![preview](./Preview.PNG)
+![preview](./Preview.png)
 
 > Trilha Explorer
 
