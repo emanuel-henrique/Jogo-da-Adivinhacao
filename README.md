@@ -10,7 +10,7 @@ Nesse projeto pude aprimorar mais os meus conceitos sobre o funcionamento e a ma
  - Abaixo está o link com o projeto funcional pronto para testes.
 
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://deploy-jogoadivinhacao.netlify.app/)
 
 ## 🛠️ Tecnologias
 
